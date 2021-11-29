@@ -17,3 +17,5 @@ def main():
      'casos_obitos_doencas_preexistentes.csv.zip')
 
     
+if __name__ == '__main__':
+    main()
